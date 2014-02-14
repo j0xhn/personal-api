@@ -3,7 +3,7 @@ var occupations = {
 		{"Maketing": "Txtwire"},
 		{"Video Producer": "Self"},
 	]
-	}
+}
 
 var express = require('express');
 
